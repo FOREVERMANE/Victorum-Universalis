@@ -232,6 +232,7 @@ DO4 = "countries/Dodecanese.txt"
 GE4 = "countries/Phocaea.txt"
 LES = "countries/Lesbos.txt"
 OR3 = "countries/Orchomenos.txt"
+MY7 = "countries/Mygaera.txt"
 TEN = "countries/Tenedos.txt"
 
 #BT - Holy Orders
