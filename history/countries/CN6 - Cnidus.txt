@@ -1,5 +1,5 @@
 government = monarchy
-add_government_reform = cathoic_aegean_county
+add_government_reform = catholic_aegean_county
 government_rank = 1
 mercantilism = 2
 primary_culture = ligurian
