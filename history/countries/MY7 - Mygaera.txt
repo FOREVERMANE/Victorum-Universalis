@@ -1,0 +1,8 @@
+government_rank = 1
+government = monarchy
+add_government_reform = catholic_aegean_county
+primary_culture = ligurian
+add_accepted_culture = greek
+religion = catholic
+technology_group = western
+capital = 8755

@@ -1,0 +1,56 @@
+catholic_aegean_county = {
+	rank = {
+		1 = LORDSHIP
+		2 = VISCOUNTY
+		3 = COUNTY
+	}
+
+	ruler_male = {
+		1 = LORD
+		2 = KING
+		3 = COUNTESS
+	}
+
+	ruler_female = {
+		1 = GRAND LADY
+		2 = VISCOUNTESS
+		3 = COUNTESS
+	}
+
+	consort_male  = {
+		1 = LORD_CONSORT
+		2 = VISCOUNT_CONSORT
+		3 = COUNT_CONSORT
+	}
+
+	consort_female = {
+		1 = LADY_CONSORT
+		2 = VISCOUNTESS_CONSORT
+		3 = COUNTESS_CONSORT
+	}
+
+	heir_male = {
+		1 = HEIR
+		2 = HEIR
+		3 = HEIR
+	}
+
+	heir_female = {
+		1 = HEIR_fem
+		2 = HEIR_fem
+		3 = HEIR_fem
+	}
+
+	government_reform = monarchy_mechanic
+
+trigger = {
+        has_reform = monarchy_mechanic
+        OR = { 
+            tag = LAZ
+            tag = OR3
+			tag = MY7
+			tag = DO4
+			tag = AM5
+			tag = TEN
+        }
+    }

@@ -690,15 +690,6 @@ angola_region = {
 		kasai_area
 		kongo_area
 		matamba_area
-		namibe_area
-		hwila_area
-		kwanyama_area
-		ngangela_area
-		moxico_area
-		wambu_area
-		benguela_area
-		bengo_area
-		bailundo_area
 	}
 	monsoon = {
 		00.02.01

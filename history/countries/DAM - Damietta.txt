@@ -1,9 +1,9 @@
-government = gov_admiralty
-add_government_reform = gov_admiralty_reform
+government = republic
+add_government_reform = admiralty_reform
 government_rank = 1
+mercantilism = 25
+primary_culture = ligurian	#was Novgorodian but not present on the map anymore
+religion = orthodox
 technology_group = western
-primary_culture = norman
-add_accepted_culture = norman
-religion = catholic
-capital = 363
 capital = 363	# Damietta
+fixed_capital = 363 # Cannot move capital away from this province & no power cost to move to it
